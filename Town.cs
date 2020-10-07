@@ -55,14 +55,7 @@ namespace ConsoleAppZet
         public Relwet relwet;
         public Heat heat;
         public Forecast()
-        {
-            phenomena = new Phenomena();
-            pressure = new Pressure();
-            temperature = new Temperature();
-            wind = new Wind();
-            relwet = new Relwet();
-            heat = new Heat();
-        }
+
 
 
     }
